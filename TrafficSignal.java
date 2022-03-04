@@ -33,7 +33,7 @@ class TrafficSignal extends JFrame implements ItemListener
             {
                 System.exit(0);
             }
-        }
+        });
     }
     public void itemStateChanged(ItemEvent ie)
     {
